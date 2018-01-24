@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="com.jcabi:jcabi-jdbc:0.16" type="repository">
+    <properties maven-id="com.jcabi:jcabi-jdbc:0.16" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jcabi-jdbc-0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcabi-aspects-0.22.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcabi-log-0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aspectjrt-1.8.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lombok-1.16.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/jcabi-jdbc-0.16-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jcabi-jdbc-0.16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
